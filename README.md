@@ -5,11 +5,7 @@
 
 compatible with RN 0.60+ (iOS and AndroidX)
 
-    iOS - For RN 0.60+ you need to execute the following commands:
-
-    yarn add react-native-sip
-    cd ios
-    pod install
+    iOS - Implement pjsip framework on to project.
 
 
 ## Support
