@@ -5,7 +5,7 @@
 
 compatible with RN 0.60+ (iOS and AndroidX)
 
-    iOS - Implement pjsip framework on to project.
+    iOS - Implement PJSIP with dependency
 
 
 ## Support
