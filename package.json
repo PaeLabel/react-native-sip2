@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "lint": "eslint ./src"
+    "lint": "eslint ./src",
+    "generate-docs": "node_modules/.bin/jsdoc --configure .jsdoc.json --verbose"
   },
   "author": {
     "name": "Pae Label",
@@ -44,5 +45,5 @@
     "type": "git",
     "url": "git+https://github.com/PaeLabel/react-native-sip2.git"
   },
-  "version": "3.0.2-7"
+  "version": "3.0.2"
 }
