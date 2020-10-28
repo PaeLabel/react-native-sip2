@@ -104,3 +104,10 @@ endpoint.addListener("call_terminated", (newCall) => {
 ```
 
 ## API
+
+[DOCUMENTATION](https://florindumitru.github.io/react-native-sip/)
+
+
+
+
+*This repo it's based on a fork of [datso/react-native-pjsip](https://github.com/datso/react-native-pjsip).* 
